@@ -14,7 +14,7 @@ int main(int argc, char const* argv[]) {
   const int a = 5;
 
   cout << "Constant a: " << a << endl;
-  cout << "Constant PI: " << PI << endl;
+  cout << "Another constant PI: " << PI << endl;
 
   return 0;
 }
